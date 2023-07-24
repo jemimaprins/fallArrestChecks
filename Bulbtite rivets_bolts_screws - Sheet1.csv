@@ -1,0 +1,18 @@
+Type,Diameter,Shear strength (kN),Head size (mm),Tension (kN)
+4mm Bulbtite - Alu,4,2,8,1.05
+5.2mm Bulbtite - Alu,5.2,2.7,10,1.95
+6.3mm Bulbtite - Alu,6.3,4.2,12,2.5
+7.7mm Bulbtite - Alu,7.7,6.65,15,4.85
+M8 G4.6 Min,8,6.21,14,6.5
+M10 G4.6 Min,10,10.3,16,10.5
+M12 G4.6 Min,12,15.1,20,13.9
+M16 G4.6 Min,16,28.6,24,24.6
+10G self tapping screw (timber),4.8,1.45,4.8,1.51
+12G self tapping screw (timber),5.5,1.87,5.5,1.98
+14G self tapping screw (timber),6.3,2.33,6.3,2.5
+8mm Coach screw,8,3.54,8,5.38
+10mm Coach screw,10,4.42,10,7.49
+12mm Coach screw,12,7.28,12,9.91
+10G self tapping screw (steel),4.8,6.4,4.8,0.98
+12G self tapping screw (steel),5.5,9,5.5,1.12
+14G self tapping screw (steel),6.3,11.9,6.3,1.25
